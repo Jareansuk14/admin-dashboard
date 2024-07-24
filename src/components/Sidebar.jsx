@@ -31,7 +31,7 @@ const Sidebar = () => {
   };
 
   return (
-    <Box sx={{ width: 250, bgcolor: '#fff', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', p: 3 }}>
+    <Box sx={{height: 1100, width: 250, bgcolor: '#fff', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', p: 3 }}>
       <Box>
         <Box sx={{ textAlign: 'center', mb: 4 }}>
           <Avatar sx={{ width: 100, height: 100, bgcolor: '#ccc', margin: '0 auto' }} />
